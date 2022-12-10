@@ -4,25 +4,6 @@ This using typescript, next.js, redux, material-ui is simple, and is a sample co
 
 By VSCode and prettier and ESLint, realtime code format and realtime sentence structure check and rearranging of unused import are carried out in real time.
 
-これは、typescript, next.js, redux, material-ui を使った、シンプルでサーバーサイドレンダリングに対応したサンプルです。
-
-VSCode と prettier と ESLint によって、リアルタイムに整形と構文チェックと未使用 import の整理が行われます。
-
-## Live demo
-
-[Live demo](https://typescript-nextjs-redux-material-ui-example.now.sh/)
-
-## Screenshot
-
-### For desktop
-
-![For desktop 1](https://user-images.githubusercontent.com/12574048/46964420-f9fb9180-d0e2-11e8-9c05-e1594c533947.png)
-![For desktop 2](https://user-images.githubusercontent.com/12574048/71005010-3337f300-2126-11ea-844c-d113f5d87255.png)
-
-### For mobile
-
-![For mobile](https://user-images.githubusercontent.com/12574048/46964454-126bac00-d0e3-11e8-8bdc-ebf47c907ed1.png)
-
 ## Features
 
 - [Google App Engine Node.js Standard Environment](https://cloud.google.com/appengine/docs/standard/nodejs/)
