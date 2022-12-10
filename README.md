@@ -36,14 +36,6 @@ By VSCode and prettier and ESLint, realtime code format and realtime sentence st
 
 ## Usage
 
-### Download and install
-
-```bash
-git clone https://github.com/treetips/typescript-nextjs-redux-material-ui-example.git
-cd typescript-nextjs-redux-material-ui-example
-npm i
-```
-
 ### Start local
 
 ```bash
